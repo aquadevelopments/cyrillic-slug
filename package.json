@@ -1,0 +1,24 @@
+{
+  "name": "cyrillic-slug",
+  "version": "1.0.0",
+  "description": "Cyrillic text to latin and url slug converter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquadevelopments/cyrillic-slug.git"
+  },
+  "keywords": [
+    "cyrillic",
+    "url.",
+    "slug"
+  ],
+  "author": "rolexam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aquadevelopments/cyrillic-slug/issues"
+  },
+  "homepage": "https://github.com/aquadevelopments/cyrillic-slug#readme"
+}
